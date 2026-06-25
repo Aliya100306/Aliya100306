@@ -9,7 +9,7 @@
 ![VTU](https://img.shields.io/badge/VTU-Engineering-blueviolet?style=for-the-badge)
 ![CSE](https://img.shields.io/badge/Computer%20Science-Engineering-indigo?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/AI%20%7C%20ML-Developer-purple?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data%20Analytics-Learner-6A0DAD?style=for-the-badge)
+
 
 ![Location](https://img.shields.io/badge/Mandya-Karnataka-4B0082?style=for-the-badge)
 
